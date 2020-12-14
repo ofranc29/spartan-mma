@@ -114,7 +114,7 @@ jQuery(document).ready(function ($) {
 			loop: true,
 			nav: false,
 			autoplay: true,
-			autoplayTimeout: 10000,
+			autoplayTimeout: 20000,
 			autoplayHoverPause:true,
 			responsive: {
 				0: {
